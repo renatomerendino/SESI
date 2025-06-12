@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulazione Esame di Inglese</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📚 Simulazione Esame di Inglese</h1>
+            <p>Carica il tuo file JSON e inizia la simulazione!</p>
+        </div>
+
+        <!-- Sezione caricamento file -->
+        <div class="upload-container" id="uploadContainer">
+            <div class="upload-zone" id="uploadZone" onclick="document.getElementById('fileInput').click()">
+                <div class="upload-icon">📁</div>
+                <div class="upload-text">Carica il tuo file JSON</div>
+                <div class="upload-subtext">Trascina il file qui o clicca per selezionarlo</div>
+                <input type="file" id="fileInput" class="file-input" accept=".json" onchange="handleFileSelect(this)">
+            </div>
+
+            <div class="schema-info">
+                <h3>📋 Schema del file JSON richiesto:</h3>
+                <p>Il file deve contenere un oggetto con una proprietà "sections" che include le sezioni dell'esame:</p>
+                <div class="schema-example">
+{
+  "sections": [
+    {
+      "title": "READING",
+      "passage": "Testo del passaggio...",
+      "questions": [...]
+    },
+    {
+      "title": "GRAMMAR", 
+      "parts": [...]
+    }
+  ]
+}
+                </div>
+                <p><strong>Tipologie di domande supportate:</strong> multiple_choice, true_false, open_ended, word_form, fill_in_blank</p>
+            </div>
+
+            <div id="errorContainer"></div>
+            <div id="successContainer"></div>
+        </div>
+
+        <div class="progress-container" id="progressContainer">
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+            <div class="progress-text" id="progressText">Domanda 0 di 0</div>
+        </div>
+
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Caricamento in corso...</p>
+        </div>
+
+        <div id="examContent"></div>
+
+        <div class="action-buttons">
+            <button class="btn btn-secondary hidden" id="submitBtn" onclick="submitExam()">
+                🎯 Correggi Esame
+            </button>
+            <button class="btn btn-primary hidden" id="restartBtn" onclick="restartExam()">
+                🔄 Ricomincia Esame
+            </button>
+            <button class="btn btn-warning hidden" id="newFileBtn" onclick="loadNewFile()">
+                📁 Carica Nuovo File
+            </button>
+        </div>
+
+        <div class="results-container" id="resultsContainer"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
