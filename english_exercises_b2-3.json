@@ -1,0 +1,214 @@
+{
+  "sections": [
+    {
+      "title": "READING",
+      "passage": "The ancient city of Pompeii continues to reveal its secrets nearly 2,000 years after Mount Vesuvius buried it in volcanic ash. Recently, archaeologists working in the Regio V area made an extraordinary discovery: a perfectly preserved fast-food restaurant, known as a 'thermopolium' in ancient Roman times. The counter still contains traces of food that was being served when the eruption occurred in 79 AD. Analysis of the residues has revealed duck, goat, pig, fish, and even snails on the menu. The frescoes decorating the walls depict the very ingredients that were sold there, including chickens and mallard ducks hanging upside down, ready to be cooked. This discovery provides invaluable insight into the daily eating habits of ordinary Romans. The thermopolium was clearly a popular meeting place, as evidenced by the graffiti found on the walls, including insults and drawings left by customers. Professor Maria Rossi, who leads the excavation team, believes this find will revolutionize our understanding of Roman food culture and social customs.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main topic of this passage?",
+          "type": "multiple_choice",
+          "options": [
+            "The eruption of Mount Vesuvius",
+            "An archaeological discovery in Pompeii",
+            "Ancient Roman cooking methods"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 2,
+          "question": "When did Mount Vesuvius destroy Pompeii?",
+          "type": "multiple_choice",
+          "options": [
+            "79 AD",
+            "2,000 years ago exactly",
+            "During Professor Rossi's excavation"
+          ],
+          "correct_answer": 0
+        },
+        {
+          "id": 3,
+          "question": "What was found on the menu of the thermopolium?",
+          "type": "multiple_choice",
+          "options": [
+            "Only vegetables and bread",
+            "Various meats and seafood",
+            "Modern Italian dishes"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 4,
+          "question": "The thermopolium was discovered in the Regio V area of Pompeii.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 0
+        },
+        {
+          "id": 5,
+          "question": "The discovery shows that the restaurant was unpopular with customers.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        }
+      ]
+    },
+    {
+      "title": "GRAMMAR",
+      "parts": [
+        {
+          "part": "PART ONE",
+          "instructions": "Read this article and for each question circle the correct letter A, B, C, D. Only one answer is possible.",
+          "text": "Space tourism is rapidly becoming a reality rather than science fiction. Several companies are now (6) ______ commercial flights to the edge of space, allowing ordinary people to experience weightlessness and see Earth from above. While these trips are currently (7) ______ expensive for most people, prices are expected to decrease significantly in the coming years. The technology (8) ______ these flights possible has been developing for decades, but only recently has it become safe and reliable enough for civilian use. Critics argue that space tourism is (9) ______ luxury for the wealthy, but supporters believe it will eventually become (10) ______ accessible to everyone, just like air travel did in the past century.",
+          "questions": [
+            {
+              "id": 6,
+              "question": "(6) ______",
+              "type": "multiple_choice",
+              "options": ["A offering", "B offered", "C offer", "D offers"],
+              "correct_answer": 0
+            },
+            {
+              "id": 7,
+              "question": "(7) ______",
+              "type": "multiple_choice",
+              "options": ["A too", "B very", "C so", "D enough"],
+              "correct_answer": 0
+            },
+            {
+              "id": 8,
+              "question": "(8) ______",
+              "type": "multiple_choice",
+              "options": ["A make", "B making", "C made", "D makes"],
+              "correct_answer": 1
+            },
+            {
+              "id": 9,
+              "question": "(9) ______",
+              "type": "multiple_choice",
+              "options": ["A only", "B just", "C merely", "D simply"],
+              "correct_answer": 2
+            },
+            {
+              "id": 10,
+              "question": "(10) ______",
+              "type": "multiple_choice",
+              "options": ["A more", "B most", "C much", "D many"],
+              "correct_answer": 0
+            }
+          ]
+        },
+        {
+          "part": "PART TWO",
+          "instructions": "Put the verbs given in brackets into the correct forms",
+          "questions": [
+            {
+              "id": 11,
+              "question": "By the time the concert starts, the band _________________ (rehearse) for six hours.",
+              "type": "open_ended",
+              "correct_answer": "will have been rehearsing"
+            },
+            {
+              "id": 12,
+              "question": "The artist _________________ (paint) this masterpiece when he was discovered by art critics.",
+              "type": "open_ended",
+              "correct_answer": "was painting"
+            },
+            {
+              "id": 13,
+              "question": "If the weather _________________ (be) better yesterday, we would have gone hiking.",
+              "type": "open_ended",
+              "correct_answer": "had been"
+            },
+            {
+              "id": 14,
+              "question": "The new museum _________________ (visit) by thousands of tourists since it opened.",
+              "type": "open_ended",
+              "correct_answer": "has been visited"
+            },
+            {
+              "id": 15,
+              "question": "I promise I _________________ (finish) the project before the deadline.",
+              "type": "open_ended",
+              "correct_answer": "will finish"
+            }
+          ]
+        },
+        {
+          "part": "PART THREE",
+          "instructions": "Read the text and use the words in CAPITALS to form a word which fits into the gap in the same line.",
+          "text": "HEALTH AND FITNESS MAGAZINE ARTICLE\nRegular physical exercise brings numerous benefits to both mental and physical health. Studies show that people who exercise regularly experience significant (16) _________________ in their overall mood and energy levels. Exercise is particularly (17) _________________ for reducing stress and anxiety in our increasingly busy modern lives. Many fitness experts recommend finding an (18) _________________ activity that you genuinely enjoy, as this increases the (19) _________________ that you will stick to your routine. The (20) _________________ of different exercise types available today means there's something suitable for everyone, regardless of age or fitness level.",
+          "questions": [
+            {
+              "id": 16,
+              "question": "(16) _________________ in their overall mood and energy levels (IMPROVE)",
+              "type": "word_form",
+              "correct_answer": "improvement"
+            },
+            {
+              "id": 17,
+              "question": "(17) _________________ for reducing stress and anxiety (EFFECT)",
+              "type": "word_form",
+              "correct_answer": "effective"
+            },
+            {
+              "id": 18,
+              "question": "(18) _________________ activity that you genuinely enjoy (ENJOY)",
+              "type": "word_form",
+              "correct_answer": "enjoyable"
+            },
+            {
+              "id": 19,
+              "question": "(19) _________________ that you will stick to your routine (LIKELY)",
+              "type": "word_form",
+              "correct_answer": "likelihood"
+            },
+            {
+              "id": 20,
+              "question": "(20) _________________ of different exercise types available today (VARY)",
+              "type": "word_form",
+              "correct_answer": "variety"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "WRITING",
+      "instructions": "Read the job application cover letter and fill each space with one word only.",
+      "text": "Dear Hiring Manager,\nI am writing to express my strong interest (21) _________________ the Marketing Coordinator position advertised on your company website. With my background in digital marketing and three years of experience in the field, I believe I would be an excellent (22) _________________ to your team.\nDuring my previous role at Creative Solutions Ltd, I was responsible (23) _________________ managing social media campaigns and increasing online engagement by 40%. I am particularly skilled in content creation and have experience working (24) _________________ various marketing platforms including Instagram, LinkedIn, and Google Ads.\nI would welcome the opportunity to discuss how my skills and enthusiasm could contribute to your company's continued success. I am available for an interview (25) _________________ your convenience and look forward to hearing from you soon.\nSincerely,\nAlex Thompson",
+      "questions": [
+        {
+          "id": 21,
+          "question": "I am writing to express my strong interest (21) _________________ the Marketing Coordinator position",
+          "type": "fill_in_blank",
+          "correct_answer": "in"
+        },
+        {
+          "id": 22,
+          "question": "I believe I would be an excellent (22) _________________ to your team",
+          "type": "fill_in_blank",
+          "correct_answer": "addition"
+        },
+        {
+          "id": 23,
+          "question": "I was responsible (23) _________________ managing social media campaigns",
+          "type": "fill_in_blank",
+          "correct_answer": "for"
+        },
+        {
+          "id": 24,
+          "question": "I have experience working (24) _________________ various marketing platforms",
+          "type": "fill_in_blank",
+          "correct_answer": "with"
+        },
+        {
+          "id": 25,
+          "question": "I am available for an interview (25) _________________ your convenience",
+          "type": "fill_in_blank",
+          "correct_answer": "at"
+        }
+      ]
+    }
+  ]
+} 

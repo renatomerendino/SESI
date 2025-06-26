@@ -1,0 +1,214 @@
+{
+  "sections": [
+    {
+      "title": "READING",
+      "passage": "Regular physical exercise is fundamental for maintaining both physical and mental health. Physically, it strengthens the heart, improves blood circulation, and helps manage weight, which significantly reduces the risk of chronic diseases such as heart disease and diabetes. Mentally, exercise has been proven to be a powerful mood booster. It stimulates the production of endorphins, chemicals in the brain that act as natural painkillers and mood elevators. Engaging in physical activity can also reduce feelings of anxiety and depression, improve sleep quality, and boost self-esteem. Whether it's a brisk walk, a bike ride, or a dance class, finding an enjoyable activity is key to staying consistent. The benefits are not just long-term; even a single session of moderate exercise can lead to immediate improvements in energy levels and mental clarity.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main purpose of this passage?",
+          "type": "multiple_choice",
+          "options": [
+            "To provide a guide for professional athletes",
+            "To explain the benefits of regular exercise for health and well-being",
+            "To compare different types of sports"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 2,
+          "question": "Which of the following is mentioned as a physical benefit of exercise?",
+          "type": "multiple_choice",
+          "options": [
+            "Increased risk of chronic diseases",
+            "Improved heart health and weight management",
+            "It makes you feel more tired"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 3,
+          "question": "The text suggests that exercise only provides long-term benefits.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        },
+        {
+          "id": 4,
+          "question": "How does exercise impact mental health, according to the passage?",
+          "type": "multiple_choice",
+          "options": [
+            "It has no effect on mood or anxiety",
+            "It increases stress levels",
+            "It stimulates endorphins and can reduce depression"
+          ],
+          "correct_answer": 2
+        },
+        {
+          "id": 5,
+          "question": "The passage states that you must do very intense exercise to see any benefits.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        }
+      ]
+    },
+    {
+      "title": "GRAMMAR",
+      "parts": [
+        {
+          "part": "PART ONE",
+          "instructions": "Read this article and for each question circle the correct letter A, B, C, D. Only one answer is possible.",
+          "text": "Volunteering is a rewarding experience that benefits (6) ______ the individual and the community. Many people choose to volunteer to give something back (7) ______ society. It's a great way to develop new skills and meet new people. (8) ______ you have a lot of time to spare or just a few hours a month, there are opportunities available. The most important thing is to find a cause you are passionate (9) ______. Volunteering can also improve your resume and career prospects, as it shows you are proactive and (10) ______ to making a difference.",
+          "questions": [
+            {
+              "id": 6,
+              "question": "6. A either B neither C both D all",
+              "type": "multiple_choice",
+              "options": ["either", "neither", "both", "all"],
+              "correct_answer": 2
+            },
+            {
+              "id": 7,
+              "question": "7. A for B from C at D to",
+              "type": "multiple_choice",
+              "options": ["for", "from", "at", "to"],
+              "correct_answer": 3
+            },
+            {
+              "id": 8,
+              "question": "8. A If B Unless C Despite D Whether",
+              "type": "multiple_choice",
+              "options": ["If", "Unless", "Despite", "Whether"],
+              "correct_answer": 3
+            },
+            {
+              "id": 9,
+              "question": "9. A about B for C with D in",
+              "type": "multiple_choice",
+              "options": ["about", "for", "with", "in"],
+              "correct_answer": 0
+            },
+            {
+              "id": 10,
+              "question": "10. A commit B committing C committed D commitment",
+              "type": "multiple_choice",
+              "options": ["commit", "committing", "committed", "commitment"],
+              "correct_answer": 2
+            }
+          ]
+        },
+        {
+          "part": "PART TWO",
+          "instructions": "Put the verbs given in brackets into the correct forms",
+          "questions": [
+            {
+              "id": 11,
+              "question": "11. If we _________________ (leave) earlier, we would not have missed the train.",
+              "type": "open_ended",
+              "correct_answer": "had left"
+            },
+            {
+              "id": 12,
+              "question": "12. He _________________ (work) in the garden when it started to rain.",
+              "type": "open_ended",
+              "correct_answer": "was working"
+            },
+            {
+              "id": 13,
+              "question": "13. The new library _________________ (open) to the public by the mayor last week.",
+              "type": "open_ended",
+              "correct_answer": "was opened"
+            },
+            {
+              "id": 14,
+              "question": "14. 'It's a bit dark in here.' 'You're right, I _________________ (turn on) the light.'",
+              "type": "open_ended",
+              "correct_answer": "will turn on"
+            },
+            {
+              "id": 15,
+              "question": "15. 'Have you spoken to Peter?' 'No, I _________________ (not see) him today.'",
+              "type": "open_ended",
+              "correct_answer": "have not seen"
+            }
+          ]
+        },
+        {
+          "part": "PART THREE",
+          "instructions": "Read the text and use the words in CAPITALS to form a word which fits into the gap in the same line.",
+          "text": "Getting enough quality sleep is essential for our overall (16) ........................ . A lack of sleep can impair our cognitive (17) ........................ and make it difficult to concentrate. Many people struggle with sleep due to stress and the (18) ........................ of modern life. Creating a relaxing bedtime routine can be very (19) ........................ . It's a simple but (20) ........................ way to improve your sleep quality.",
+          "questions": [
+            {
+              "id": 16,
+              "question": "(16) ........................ (WELL)",
+              "type": "word_form",
+              "correct_answer": "well-being"
+            },
+            {
+              "id": 17,
+              "question": "(17) ........................ (ABLE)",
+              "type": "word_form",
+              "correct_answer": "abilities"
+            },
+            {
+              "id": 18,
+              "question": "(18) ........................ of modern life (PRESS)",
+              "type": "word_form",
+              "correct_answer": "pressures"
+            },
+            {
+              "id": 19,
+              "question": "(19) ........................ (BENEFIT)",
+              "type": "word_form",
+              "correct_answer": "beneficial"
+            },
+            {
+              "id": 20,
+              "question": "(20) ........................ way to improve your sleep quality (EFFECT)",
+              "type": "word_form",
+              "correct_answer": "effective"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "WRITING",
+      "instructions": "Read the email about a job application and fill each space with one word only.",
+      "text": "Subject: Inquiry Regarding Application for Marketing Position\n\nDear Hiring Manager,\n\nI am writing to inquire about the status (21).................... my application for the Marketing Manager position that I submitted last week. The job description aligns perfectly with my skills and experience, and I was very excited to apply.\n\nI am particularly interested (22).................... this role because of your company's excellent reputation in the industry. Could you please provide an update on the hiring timeline? I am very keen (23).................... learning more about this opportunity.\n\nThank you (24).................... your time and consideration. I am available for an interview at your earliest convenience.\n\nI look forward to hearing (25).................... you.\n\nSincerely,\nJane Doe",
+      "questions": [
+        {
+          "id": 21,
+          "question": "the status (21).................... my application",
+          "type": "fill_in_blank",
+          "correct_answer": "of"
+        },
+        {
+          "id": 22,
+          "question": "I am particularly interested (22).................... this role",
+          "type": "fill_in_blank",
+          "correct_answer": "in"
+        },
+        {
+          "id": 23,
+          "question": "I am very keen (23).................... learning more",
+          "type": "fill_in_blank",
+          "correct_answer": "on"
+        },
+        {
+          "id": 24,
+          "question": "Thank you (24).................... your time and consideration",
+          "type": "fill_in_blank",
+          "correct_answer": "for"
+        },
+        {
+          "id": 25,
+          "question": "I look forward to hearing (25).................... you",
+          "type": "fill_in_blank",
+          "correct_answer": "from"
+        }
+      ]
+    }
+  ]
+} 

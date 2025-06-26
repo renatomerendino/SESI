@@ -1,0 +1,214 @@
+{
+  "sections": [
+    {
+      "title": "READING",
+      "passage": "Recycling is the process of converting waste materials into new materials and objects. It is a key component of modern waste reduction and is the third component of the 'Reduce, Reuse, and Recycle' waste hierarchy. Recycling can prevent the waste of potentially useful materials and reduce the consumption of fresh raw materials, thereby reducing energy usage, air pollution, and water pollution. Materials to be recycled are either delivered to a household recycling center or picked up from curbside bins, then sorted, cleaned, and reprocessed into new materials destined for manufacturing. However, recycling is not always straightforward. The process can be costly, and some materials are difficult to recycle. Furthermore, contamination of recyclable materials with non-recyclable items can make the entire batch unusable. Despite these challenges, promoting effective recycling programs and educating the public on proper sorting are crucial steps toward a more sustainable future.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the passage mainly about?",
+          "type": "multiple_choice",
+          "options": [
+            "The process of manufacturing new goods",
+            "An explanation of what recycling is, its benefits, and its challenges",
+            "How to reduce the costs of waste management"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 2,
+          "question": "What is a major benefit of recycling mentioned in the text?",
+          "type": "multiple_choice",
+          "options": [
+            "It increases the consumption of raw materials",
+            "It is a very simple and cheap process",
+            "It reduces energy usage and pollution"
+          ],
+          "correct_answer": 2
+        },
+        {
+          "id": 3,
+          "question": "The text states that recycling is a flawless process with no difficulties.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        },
+        {
+          "id": 4,
+          "question": "What can happen if non-recyclable items are mixed with recyclables?",
+          "type": "multiple_choice",
+          "options": [
+            "It makes the recycling process faster",
+            "It can ruin the entire batch of materials",
+            "It has no effect on the process"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 5,
+          "question": "Recycling is part of the 'Reduce, Reuse, and Recycle' hierarchy.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 0
+        }
+      ]
+    },
+    {
+      "title": "GRAMMAR",
+      "parts": [
+        {
+          "part": "PART ONE",
+          "instructions": "Read this article and for each question circle the correct letter A, B, C, D. Only one answer is possible.",
+          "text": "Establishing a morning routine can have a significant positive impact (6) ______ your day. It's not about waking up extremely early, but rather about creating a consistent sequence of actions to start your day with intention. This could include activities like meditation, journaling, or light exercise. (7) ______ it may be difficult to stick to at first, the long-term benefits are worth the effort. A good routine can reduce stress by eliminating the need to make decisions first thing (8) ______ the morning. It sets a productive tone for the rest of the day. You should design a routine that works (9) ______ you and your lifestyle. The key is to be consistent (10) ______ that it becomes an automatic habit.",
+          "questions": [
+            {
+              "id": 6,
+              "question": "6. A at B on C for D in",
+              "type": "multiple_choice",
+              "options": ["at", "on", "for", "in"],
+              "correct_answer": 1
+            },
+            {
+              "id": 7,
+              "question": "7. A Because B So C Although D Unless",
+              "type": "multiple_choice",
+              "options": ["Because", "So", "Although", "Unless"],
+              "correct_answer": 2
+            },
+            {
+              "id": 8,
+              "question": "8. A on B at C in D by",
+              "type": "multiple_choice",
+              "options": ["on", "at", "in", "by"],
+              "correct_answer": 2
+            },
+            {
+              "id": 9,
+              "question": "9. A with B to C for D about",
+              "type": "multiple_choice",
+              "options": ["with", "to", "for", "about"],
+              "correct_answer": 2
+            },
+            {
+              "id": 10,
+              "question": "10. A because B so C if D for",
+              "type": "multiple_choice",
+              "options": ["because", "so", "if", "for"],
+              "correct_answer": 1
+            }
+          ]
+        },
+        {
+          "part": "PART TWO",
+          "instructions": "Put the verbs given in brackets into the correct forms",
+          "questions": [
+            {
+              "id": 11,
+              "question": "11. I _________________ (buy) the concert tickets if I had known you wanted to go.",
+              "type": "open_ended",
+              "correct_answer": "would have bought"
+            },
+            {
+              "id": 12,
+              "question": "12. She _________________ (talk) on the phone when I arrived.",
+              "type": "open_ended",
+              "correct_answer": "was talking"
+            },
+            {
+              "id": 13,
+              "question": "13. The results of the experiment _________________ (publish) in a scientific journal last month.",
+              "type": "open_ended",
+              "correct_answer": "were published"
+            },
+            {
+              "id": 14,
+              "question": "14. 'I can't lift this box.' 'Don't worry, I _________________ (help) you.'",
+              "type": "open_ended",
+              "correct_answer": "will help"
+            },
+            {
+              "id": 15,
+              "question": "15. 'Is the report ready?' 'No, I _________________ (not finish) it yet.'",
+              "type": "open_ended",
+              "correct_answer": "haven't finished"
+            }
+          ]
+        },
+        {
+          "part": "PART THREE",
+          "instructions": "Read the text and use the words in CAPITALS to form a word which fits into the gap in the same line.",
+          "text": "Modern education faces numerous challenges. One of the biggest is keeping up with rapid (16) ........................ advances. Teachers need continuous training to use new tools (17) ........................ . There is also a growing (18) ........................ of the importance of teaching soft skills, like creativity and critical thinking. The mental (19) ........................ of students is another major concern. Schools must provide a supportive and (20) ........................ environment for all learners.",
+          "questions": [
+            {
+              "id": 16,
+              "question": "(16) ........................ advances (TECHNOLOGY)",
+              "type": "word_form",
+              "correct_answer": "technological"
+            },
+            {
+              "id": 17,
+              "question": "(17) ........................ (EFFECTIVE)",
+              "type": "word_form",
+              "correct_answer": "effectively"
+            },
+            {
+              "id": 18,
+              "question": "(18) ........................ of the importance (RECOGNIZE)",
+              "type": "word_form",
+              "correct_answer": "recognition"
+            },
+            {
+              "id": 19,
+              "question": "(19) ........................ of students (WELL)",
+              "type": "word_form",
+              "correct_answer": "well-being"
+            },
+            {
+              "id": 20,
+              "question": "(20) ........................ environment (INCLUDE)",
+              "type": "word_form",
+              "correct_answer": "inclusive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "WRITING",
+      "instructions": "Read the thank you email after an interview and fill each space with one word only.",
+      "text": "Subject: Thank You - Interview for the Project Manager Position\n\nDear Ms. Davis,\n\nThank you very much (21).................... the opportunity to interview yesterday for the Project Manager position. I truly enjoyed our conversation and learning more about the role and the team.\n\nI was particularly impressed (22).................... the company's commitment to innovation, and I am confident that my skills in project management would be a valuable asset. The discussion confirmed my enthusiasm (23).................... this position.\n\nPlease feel free to reach out if you need any additional information from my (24).................... .\n\nThank you again for your time and consideration. I look forward to hearing (25).................... you soon.\n\nBest regards,\nTom Williams",
+      "questions": [
+        {
+          "id": 21,
+          "question": "Thank you very much (21).................... the opportunity",
+          "type": "fill_in_blank",
+          "correct_answer": "for"
+        },
+        {
+          "id": 22,
+          "question": "I was particularly impressed (22).................... the company's commitment",
+          "type": "fill_in_blank",
+          "correct_answer": "by"
+        },
+        {
+          "id": 23,
+          "question": "my enthusiasm (23).................... this position",
+          "type": "fill_in_blank",
+          "correct_answer": "for"
+        },
+        {
+          "id": 24,
+          "question": "from my (24)....................",
+          "type": "fill_in_blank",
+          "correct_answer": "side"
+        },
+        {
+          "id": 25,
+          "question": "I look forward to hearing (25).................... you soon",
+          "type": "fill_in_blank",
+          "correct_answer": "from"
+        }
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,214 @@
+{
+  "sections": [
+    {
+      "title": "READING",
+      "passage": "The rise of artificial intelligence has permeated many fields, and the art world is no exception. AI art generators, such as DALL-E 2 and Midjourney, can create complex, beautiful, and thought-provoking images from simple text prompts. This technological advancement has sparked a vibrant debate among artists, critics, and the public. Supporters argue that AI is just another tool, like a camera or a synthesizer, that artists can use to expand their creative possibilities. They believe it can democratize art, allowing those without traditional artistic skills to bring their visions to life. On the other hand, critics express concerns about the originality and authorship of AI-generated art. Since the AI is trained on vast datasets of existing images, many of which are copyrighted, questions arise about whether AI art is a form of sophisticated plagiarism. Furthermore, some artists fear that this technology could devalue human creativity and skill, potentially leading to job displacement within the creative industries. Despite the controversy, AI-generated art has already started to make its mark, with some pieces winning art competitions and being sold for significant sums. The long-term impact on the art world remains to be seen, but it's clear that AI is challenging our traditional definitions of art and creativity.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main subject of the passage?",
+          "type": "multiple_choice",
+          "options": [
+            "The history of modern art",
+            "The impact and debate surrounding AI in art", 
+            "The technical process behind AI generators"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 2,
+          "question": "According to the text, supporters of AI art compare it to what?",
+          "type": "multiple_choice",
+          "options": [
+            "A paintbrush",
+            "A creative partner",
+            "A tool like a camera"
+          ],
+          "correct_answer": 2
+        },
+        {
+          "id": 3,
+          "question": "What is a major concern for critics of AI art?",
+          "type": "multiple_choice",
+          "options": [
+            "The high cost of AI software",
+            "Originality and copyright issues",
+            "The difficulty of using text prompts"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 4,
+          "question": "The passage states that AI art has not yet won any competitions.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        },
+        {
+          "id": 5,
+          "question": "The passage suggests that everyone agrees AI is a positive development for the art world.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        }
+      ]
+    },
+    {
+      "title": "GRAMMAR",
+      "parts": [
+        {
+          "part": "PART ONE",
+          "instructions": "Read this article and for each question circle the correct letter A, B, C, D. Only one answer is possible.",
+          "text": "In our increasingly digital world, cybersecurity has become more important than ever. Every day, we share vast amounts of personal information online, (6) ______ makes us vulnerable to cyberattacks. It is crucial for both individuals and companies to take (7) ______ to protect their data. Simple measures, such as using strong, unique passwords and enabling two-factor authentication, can make a huge difference. You should also be cautious about suspicious emails or links, (8) ______ they could be phishing attempts designed to steal your information. If you ever think your account (9) ______ been compromised, you should change your password immediately. By staying informed and vigilant, we can all contribute (10) ______ making the internet a safer place.",
+          "questions": [
+            {
+              "id": 6,
+              "question": "6. A what B which C who D that",
+              "type": "multiple_choice",
+              "options": ["what", "which", "who", "that"],
+              "correct_answer": 1
+            },
+            {
+              "id": 7,
+              "question": "7. A steps B decisions C rules D paths",
+              "type": "multiple_choice",
+              "options": ["steps", "decisions", "rules", "paths"],
+              "correct_answer": 0
+            },
+            {
+              "id": 8,
+              "question": "8. A if B because C although D unless",
+              "type": "multiple_choice",
+              "options": ["if", "because", "although", "unless"],
+              "correct_answer": 1
+            },
+            {
+              "id": 9,
+              "question": "9. A has B have C had D having",
+              "type": "multiple_choice",
+              "options": ["has", "have", "had", "having"],
+              "correct_answer": 0
+            },
+            {
+              "id": 10,
+              "question": "10. A for B with C to D by",
+              "type": "multiple_choice",
+              "options": ["for", "with", "to", "by"],
+              "correct_answer": 2
+            }
+          ]
+        },
+        {
+          "part": "PART TWO",
+          "instructions": "Put the verbs given in brackets into the correct forms",
+          "questions": [
+            {
+              "id": 11,
+              "question": "11. If she had checked the weather forecast, she _________________ (not forget) her umbrella.",
+              "type": "open_ended",
+              "correct_answer": "would not have forgotten"
+            },
+            {
+              "id": 12,
+              "question": "12. He _________________ (watch) a movie when he heard a strange noise outside.",
+              "type": "open_ended",
+              "correct_answer": "was watching"
+            },
+            {
+              "id": 13,
+              "question": "13. The new bridge _________________ (build) last year to connect the two towns.",
+              "type": "open_ended",
+              "correct_answer": "was built"
+            },
+            {
+              "id": 14,
+              "question": "14. Don't carry that heavy box by yourself! I _________________ (help) you.",
+              "type": "open_ended",
+              "correct_answer": "will help"
+            },
+            {
+              "id": 15,
+              "question": "15. 'Are you ready to go?' 'I'm sorry, I _________________ (not do) the dishes yet.'",
+              "type": "open_ended",
+              "correct_answer": "haven't done"
+            }
+          ]
+        },
+        {
+          "part": "PART THREE",
+          "instructions": "Read the text and use the words in CAPITALS to form a word which fits into the gap in the same line.",
+          "text": "Volunteering is an incredibly rewarding experience that offers numerous benefits. The (16) ........................ of a local charity can make a huge difference in the community. Many volunteers find great (17) ........................ in helping others and contributing to a cause they care about. It is also a wonderful opportunity for personal (18) ........................, as it helps develop new skills and build confidence. The (19) ........................ and kindness shown by volunteers are often the backbone of non-profit organizations. Their (20) ........................ is truly invaluable.",
+          "questions": [
+            {
+              "id": 16,
+              "question": "(16) ........................ of a local charity (INVOLVE)",
+              "type": "word_form",
+              "correct_answer": "involvement"
+            },
+            {
+              "id": 17,
+              "question": "(17) ........................ in helping others (SATISFY)",
+              "type": "word_form",
+              "correct_answer": "satisfaction"
+            },
+            {
+              "id": 18,
+              "question": "(18) ........................ as it helps develop new skills (GROW)",
+              "type": "word_form",
+              "correct_answer": "growth"
+            },
+            {
+              "id": 19,
+              "question": "(19) ........................ and kindness shown by volunteers (GENEROUS)",
+              "type": "word_form",
+              "correct_answer": "generosity"
+            },
+            {
+              "id": 20,
+              "question": "(20) ........................ is truly invaluable (CONTRIBUTE)",
+              "type": "word_form",
+              "correct_answer": "contribution"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "WRITING",
+      "instructions": "Read the email about a company workshop and fill each space with one word only.",
+      "text": "Subject: Team-Building Workshop Announcement\n\nDear Team,\n\nI am writing to invite you (21).................... our upcoming team-building workshop, which will be held next Friday. The event is designed to improve collaboration and communication (22).................... our team members.\n\nWe have planned a series of fun and interactive activities that we hope everyone will enjoy. Participation is mandatory, as we believe this is an important opportunity (23).................... us to grow stronger as a team.\n\nThe workshop will start at 9 AM and will last for the entire day. Lunch will be provided. Please confirm your attendance (24).................... the end of Tuesday so we can finalize the arrangements.\n\nWe look (25).................... to seeing you all there.\n\nBest regards,\nManagement",
+      "questions": [
+        {
+          "id": 21,
+          "question": "I am writing to invite you (21).................... our upcoming team-building workshop",
+          "type": "fill_in_blank",
+          "correct_answer": "to"
+        },
+        {
+          "id": 22,
+          "question": "to improve collaboration and communication (22).................... our team members",
+          "type": "fill_in_blank",
+          "correct_answer": "among"
+        },
+        {
+          "id": 23,
+          "question": "this is an important opportunity (23).................... us to grow stronger as a team",
+          "type": "fill_in_blank",
+          "correct_answer": "for"
+        },
+        {
+          "id": 24,
+          "question": "Please confirm your attendance (24).................... the end of Tuesday",
+          "type": "fill_in_blank",
+          "correct_answer": "by"
+        },
+        {
+          "id": 25,
+          "question": "We look (25).................... to seeing you all there",
+          "type": "fill_in_blank",
+          "correct_answer": "forward"
+        }
+      ]
+    }
+  ]
+} 

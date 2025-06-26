@@ -1,0 +1,210 @@
+{
+  "sections": [
+    {
+      "title": "READING",
+      "passage": "Urban farming is the practice of cultivating, processing, and distributing food in or around urban areas. It can involve anything from rooftop gardens and vertical farms to community plots in public parks. This movement is gaining traction worldwide as a response to challenges like food insecurity, long supply chains, and a disconnect between people and their food sources. One of the primary benefits of urban farming is increased access to fresh, healthy produce in 'food deserts'—areas where affordable, nutritious food is scarce. It also reduces 'food miles,' the distance food travels from farm to consumer, which in turn lowers carbon emissions. Furthermore, urban farms can transform unused or derelict spaces into green, productive community hubs, fostering social cohesion and providing educational opportunities. However, the practice is not without its obstacles. Urban growers often face challenges such as soil contamination from past industrial use, limited space, and local regulations that may not be designed to accommodate agriculture. Securing funding and land tenure can also be significant hurdles. Despite these difficulties, proponents believe that with innovative techniques and supportive policies, urban farming can play a crucial role in creating more resilient and sustainable cities for the future.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main topic of the passage?",
+          "type": "multiple_choice",
+          "options": [
+            "The challenges of modern agriculture",
+            "The history of urban development", 
+            "Urban farming, including its benefits and challenges"
+          ],
+          "correct_answer": 2
+        },
+        {
+          "id": 2,
+          "question": "What is a 'food desert' according to the text?",
+          "type": "multiple_choice",
+          "options": [
+            "A farm in a hot climate",
+            "An area where fresh, healthy food is hard to find",
+            "A type of urban gardening technique"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 3,
+          "question": "Reducing 'food miles' is beneficial because it lowers carbon emissions.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 0
+        },
+        {
+          "id": 4,
+          "question": "The passage states that urban farming has no obstacles or challenges.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        },
+        {
+          "id": 5,
+          "question": "Soil contamination is mentioned as a potential problem for urban farmers.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 0
+        }
+      ]
+    },
+    {
+      "title": "GRAMMAR",
+      "parts": [
+        {
+          "part": "PART ONE",
+          "instructions": "Read this article and for each question circle the correct letter A, B, C, D. Only one answer is possible.",
+          "text": "The concept of a 'circular economy' is gaining attention as an alternative to the traditional linear model of 'take, make, dispose.' This new approach aims to minimize waste and make the most of resources. Products are designed (6) ______ they can be repaired, reused, or recycled rather than thrown away. This system not only benefits the environment (7) ______ also creates new economic opportunities. For example, some companies are now offering product-as-a-service models, where they lease (8) ______ products to customers instead of selling them outright. If we want to build a more sustainable future, it is a model that we (9) ______ seriously consider. The transition requires innovation and collaboration (10) ______ businesses, governments, and consumers.",
+          "questions": [
+            {
+              "id": 6,
+              "question": "6. A so that B in case C as if D due to",
+              "type": "multiple_choice",
+              "options": ["so that", "in case", "as if", "due to"],
+              "correct_answer": 0
+            },
+            {
+              "id": 7,
+              "question": "7. A and B but C or D for",
+              "type": "multiple_choice",
+              "options": ["and", "but", "or", "for"],
+              "correct_answer": 1
+            },
+            {
+              "id": 8,
+              "question": "8. A its B their C it's D there",
+              "type": "multiple_choice",
+              "options": ["its", "their", "it's", "there"],
+              "correct_answer": 1
+            },
+            {
+              "id": 9,
+              "question": "9. A should B couldn't C may not D won't",
+              "type": "multiple_choice",
+              "options": ["should", "couldn't", "may not", "won't"],
+              "correct_answer": 0
+            },
+            {
+              "id": 10,
+              "question": "10. A between B through C from D among",
+              "type": "multiple_choice",
+              "options": ["between", "through", "from", "among"],
+              "correct_answer": 3
+            }
+          ]
+        },
+        {
+          "part": "PART TWO",
+          "instructions": "Put the verbs given in brackets into the correct forms",
+          "questions": [
+            {
+              "id": 11,
+              "question": "11. I would have called you if I _________________ (know) you were in town.",
+              "type": "open_ended",
+              "correct_answer": "had known"
+            },
+            {
+              "id": 12,
+              "question": "12. While the children _________________ (play) in the garden, it started to rain.",
+              "type": "open_ended",
+              "correct_answer": "were playing"
+            },
+            {
+              "id": 13,
+              "question": "13. The missing painting _________________ (find) yesterday by a security guard.",
+              "type": "open_ended",
+              "correct_answer": "was found"
+            },
+            {
+              "id": 14,
+              "question": "14. 'The phone is ringing.' 'Don't worry, I _________________ (get) it!'",
+              "type": "open_ended",
+              "correct_answer": "will get"
+            },
+            {
+              "id": 15,
+              "question": "15. 'Is Tom here?' 'No, he _________________ (not arrive) yet from his trip.'",
+              "type": "open_ended",
+              "correct_answer": "hasn't arrived"
+            }
+          ]
+        },
+        {
+          "part": "PART THREE",
+          "instructions": "Read the text and use the words in CAPITALS to form a word which fits into the gap in the same line.",
+          "text": "Starting a new business requires careful planning and a lot of hard work. One of the biggest challenges for any entrepreneur is securing enough (16) ........................ to get started. A well-thought-out business plan is (17) ........................ to convince investors of the project's potential. Building a good team is another critical factor for (18) ........................ . It's important to hire people who are not only skilled but also share your vision. Furthermore, you must be (19) ........................ and ready to adapt to unexpected problems. With enough (20) ........................ and resilience, it is possible to turn a great idea into a thriving company.",
+          "questions": [
+            {
+              "id": 16,
+              "question": "(16) ........................ to get started (FINANCE)",
+              "type": "word_form",
+              "correct_answer": "funding"
+            },
+            {
+              "id": 17,
+              "question": "(17) ........................ to convince investors (ESSENCE)",
+              "type": "word_form",
+              "correct_answer": "essential"
+            },
+            {
+              "id": 18,
+              "question": "(18) ........................ (SUCCEED)",
+              "type": "word_form",
+              "correct_answer": "success"
+            },
+            {
+              "id": 19,
+              "question": "(19) ........................ and ready to adapt (FLEX)",
+              "type": "word_form",
+              "correct_answer": "flexible"
+            },
+            {
+              "id": 20,
+              "question": "(20) ........................ and resilience (DETERMINE)",
+              "type": "word_form",
+              "correct_answer": "determination"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "WRITING",
+      "instructions": "Read the announcement about a library closure and fill each space with one word only.",
+      "text": "Subject: Important Notice: Temporary Library Closure\n\nDear Library Members,\n\nPlease be advised that the City Central Library will be temporarily closed (21).................... the public from Monday, June 10th, to Friday, June 14th. This closure is necessary (22).................... we can perform essential system upgrades and maintenance.\n\nDuring this period, all online services, including e-book loans and database access, will remain available. No fines will be charged (23).................... items due during the closure week.\n\nWe apologize for any inconvenience this may cause. The library will reopen with its normal schedule (24).................... Saturday, June 15th.\n\nThank you (25).................... your understanding and cooperation.\n\nSincerely,\nThe Library Management",
+      "questions": [
+        {
+          "id": 21,
+          "question": "The City Central Library will be temporarily closed (21).................... the public",
+          "type": "fill_in_blank",
+          "correct_answer": "to"
+        },
+        {
+          "id": 22,
+          "question": "This closure is necessary (22).................... we can perform essential system upgrades",
+          "type": "fill_in_blank",
+          "correct_answer": "so"
+        },
+        {
+          "id": 23,
+          "question": "No fines will be charged (23).................... items due during the closure week",
+          "type": "fill_in_blank",
+          "correct_answer": "for"
+        },
+        {
+          "id": 24,
+          "question": "The library will reopen with its normal schedule (24).................... Saturday, June 15th",
+          "type": "fill_in_blank",
+          "correct_answer": "on"
+        },
+        {
+          "id": 25,
+          "question": "Thank you (25).................... your understanding and cooperation",
+          "type": "fill_in_blank",
+          "correct_answer": "for"
+        }
+      ]
+    }
+  ]
+} 

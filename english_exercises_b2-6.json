@@ -1,0 +1,214 @@
+{
+  "sections": [
+    {
+      "title": "READING",
+      "passage": "Podcasting has exploded in popularity over the last decade, transforming from a niche hobby into a mainstream medium. A podcast is essentially a digital audio file, usually episodic, that users can download to a personal device for easy listening. The format's appeal lies in its accessibility and versatility. Listeners can tune in during commutes, while exercising, or during household chores, making it a perfect medium for multitasking. The range of content is vast, covering everything from investigative journalism and in-depth interviews to comedy and fictional storytelling. This diversity means there's a podcast for almost every interest imaginable. For creators, the relatively low barrier to entry—often just a microphone and basic editing software—has empowered countless individuals and organizations to share their voices and stories with a global audience. However, the sheer volume of content has created a new challenge: discoverability. With millions of podcasts available, standing out and finding an audience can be difficult for new creators. Despite this, the medium continues to grow, influencing everything from marketing strategies to how we consume news and entertainment.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the primary subject of the passage?",
+          "type": "multiple_choice",
+          "options": [
+            "The history of radio broadcasting",
+            "The rise and characteristics of podcasting", 
+            "The technical aspects of audio editing"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 2,
+          "question": "According to the text, what is a major reason for podcasting's appeal?",
+          "type": "multiple_choice",
+          "options": [
+            "It is only available on expensive devices",
+            "It requires the listener's full attention",
+            "Its accessibility and suitability for multitasking"
+          ],
+          "correct_answer": 2
+        },
+        {
+          "id": 3,
+          "question": "The passage suggests that starting a podcast requires a large financial investment.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        },
+        {
+          "id": 4,
+          "question": "What new challenge has the growth of podcasting created for creators?",
+          "type": "multiple_choice",
+          "options": [
+            "A lack of interested listeners",
+            "Difficulty in getting noticed among millions of podcasts",
+            "High costs for hosting audio files"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 5,
+          "question": "The text states that there is a very limited range of topics covered by podcasts.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        }
+      ]
+    },
+    {
+      "title": "GRAMMAR",
+      "parts": [
+        {
+          "part": "PART ONE",
+          "instructions": "Read this article and for each question circle the correct letter A, B, C, D. Only one answer is possible.",
+          "text": "The four-day work week is a concept that has been gaining (6) ______ in recent years. Proponents argue that it can lead to increased productivity, improved employee well-being, and lower operational costs for companies. Several trials have shown positive results, with employees reporting a better work-life balance (7) ______ feeling less burned out. However, there are concerns about whether this model can be applied universally across all industries. Some sectors may find it challenging to maintain service levels with reduced hours. (8) ______ the potential difficulties, the idea is compelling enough that more companies are deciding to experiment (9) ______ it. The success of these trials will largely depend on careful planning and a willingness to adapt (10) ______ traditional ways of working.",
+          "questions": [
+            {
+              "id": 6,
+              "question": "6. A ground B space C speed D traction",
+              "type": "multiple_choice",
+              "options": ["ground", "space", "speed", "traction"],
+              "correct_answer": 3
+            },
+            {
+              "id": 7,
+              "question": "7. A while B despite C because D unless",
+              "type": "multiple_choice",
+              "options": ["while", "despite", "because", "unless"],
+              "correct_answer": 0
+            },
+            {
+              "id": 8,
+              "question": "8. A Despite B Although C However D Moreover",
+              "type": "multiple_choice",
+              "options": ["Despite", "Although", "However", "Moreover"],
+              "correct_answer": 0
+            },
+            {
+              "id": 9,
+              "question": "9. A on B with C for D about",
+              "type": "multiple_choice",
+              "options": ["on", "with", "for", "about"],
+              "correct_answer": 1
+            },
+            {
+              "id": 10,
+              "question": "10. A from B to C away D on",
+              "type": "multiple_choice",
+              "options": ["from", "to", "away", "on"],
+              "correct_answer": 1
+            }
+          ]
+        },
+        {
+          "part": "PART TWO",
+          "instructions": "Put the verbs given in brackets into the correct forms",
+          "questions": [
+            {
+              "id": 11,
+              "question": "11. If I _________________ (save) more money, I would have bought that car.",
+              "type": "open_ended",
+              "correct_answer": "had saved"
+            },
+            {
+              "id": 12,
+              "question": "12. She _________________ (cook) dinner when the phone rang.",
+              "type": "open_ended",
+              "correct_answer": "was cooking"
+            },
+            {
+              "id": 13,
+              "question": "13. The final report _________________ (write) by the committee last week.",
+              "type": "open_ended",
+              "correct_answer": "was written"
+            },
+            {
+              "id": 14,
+              "question": "14. 'It's cold in here.' 'You're right, I _________________ (close) the window.'",
+              "type": "open_ended",
+              "correct_answer": "will close"
+            },
+            {
+              "id": 15,
+              "question": "15. 'Have you finished the book?' 'Not yet, I _________________ (not read) the final chapter.'",
+              "type": "open_ended",
+              "correct_answer": "haven't read"
+            }
+          ]
+        },
+        {
+          "part": "PART THREE",
+          "instructions": "Read the text and use the words in CAPITALS to form a word which fits into the gap in the same line.",
+          "text": "Personal finance management is an essential life skill. Developing good habits early on can prevent future (16) ........................ difficulties. It is important to create a realistic budget to track your income and expenses. This provides (17) ........................ on where your money is going. Making (18) ........................ decisions about spending is key to achieving long-term financial goals. While saving money requires (19) ........................, the sense of security it brings is invaluable. Ultimately, financial (20) ........................ allows you to have more control over your life.",
+          "questions": [
+            {
+              "id": 16,
+              "question": "(16) ........................ difficulties (FINANCE)",
+              "type": "word_form",
+              "correct_answer": "financial"
+            },
+            {
+              "id": 17,
+              "question": "(17) ........................ on where your money is going (CLEAR)",
+              "type": "word_form",
+              "correct_answer": "clarity"
+            },
+            {
+              "id": 18,
+              "question": "(18) ........................ decisions about spending (SENSE)",
+              "type": "word_form",
+              "correct_answer": "sensible"
+            },
+            {
+              "id": 19,
+              "question": "(19) ........................ (DISCIPLINE)",
+              "type": "word_form",
+              "correct_answer": "discipline"
+            },
+            {
+              "id": 20,
+              "question": "(20) ........................ allows you to have more control (DEPEND)",
+              "type": "word_form",
+              "correct_answer": "independence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "WRITING",
+      "instructions": "Read the email about a project update and fill each space with one word only.",
+      "text": "Subject: Update on the Q3 Marketing Project\n\nHi Team,\n\nI'm writing to inform you of a necessary change (21).................... the deadline for the Q3 marketing project. The final presentation has been moved (22).................... Friday, September 20th, to Friday, September 27th.\n\nThis extension is (23).................... to an unexpected delay in receiving the final data from the analytics department. This gives us an extra week to analyze the information thoroughly and polish our presentation.\n\nPlease adjust your schedules accordingly. Let me know if this change causes any significant issues (24).................... your other commitments.\n\nThanks (25).................... your flexibility.\n\nBest,\nProject Manager",
+      "questions": [
+        {
+          "id": 21,
+          "question": "a necessary change (21).................... the deadline for the Q3 marketing project",
+          "type": "fill_in_blank",
+          "correct_answer": "to"
+        },
+        {
+          "id": 22,
+          "question": "The final presentation has been moved (22).................... Friday, September 20th",
+          "type": "fill_in_blank",
+          "correct_answer": "from"
+        },
+        {
+          "id": 23,
+          "question": "This extension is (23).................... to an unexpected delay",
+          "type": "fill_in_blank",
+          "correct_answer": "due"
+        },
+        {
+          "id": 24,
+          "question": "if this change causes any significant issues (24).................... your other commitments",
+          "type": "fill_in_blank",
+          "correct_answer": "with"
+        },
+        {
+          "id": 25,
+          "question": "Thanks (25).................... your flexibility",
+          "type": "fill_in_blank",
+          "correct_answer": "for"
+        }
+      ]
+    }
+  ]
+} 

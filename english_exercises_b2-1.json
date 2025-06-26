@@ -1,0 +1,210 @@
+{
+  "sections": [
+    {
+      "title": "READING",
+      "passage": "The concept of sustainable fashion has gained significant momentum in recent years as consumers become increasingly aware of the environmental impact of the clothing industry. Fast fashion, characterized by rapid production cycles and low-cost garments, has dominated the market for decades, but this model comes at a considerable environmental cost. The textile industry is one of the world's largest polluters, contributing to water contamination, excessive waste, and carbon emissions. Sustainable fashion advocates for a more responsible approach to clothing production and consumption. This includes using eco-friendly materials such as organic cotton, recycled fibers, and innovative alternatives like mushroom leather. Sustainable brands also focus on ethical labor practices, ensuring fair wages and safe working conditions for garment workers. Consumers are encouraged to adopt a 'slow fashion' mindset, investing in high-quality pieces that last longer rather than frequently purchasing cheap, disposable items. Additionally, practices like clothing swaps, second-hand shopping, and upcycling old garments are becoming increasingly popular. However, sustainable fashion faces challenges including higher production costs, limited availability, and consumer resistance to changing shopping habits. Despite these obstacles, many industry experts believe that sustainable practices will eventually become the norm rather than the exception, driven by both environmental necessity and changing consumer values.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main focus of the passage?",
+          "type": "multiple_choice",
+          "options": [
+            "The history of fashion trends",
+            "Sustainable fashion and its environmental impact",
+            "How to start a clothing business"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 2,
+          "question": "According to the text, fast fashion is characterized by...",
+          "type": "multiple_choice",
+          "options": [
+            "high-quality materials and slow production",
+            "rapid production cycles and low-cost garments",
+            "eco-friendly practices and fair wages"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 3,
+          "question": "The textile industry is mentioned as one of the world's largest polluters.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 0
+        },
+        {
+          "id": 4,
+          "question": "Sustainable fashion is only about using eco-friendly materials.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        },
+        {
+          "id": 5,
+          "question": "The passage suggests that sustainable practices will definitely replace fast fashion immediately.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        }
+      ]
+    },
+    {
+      "title": "GRAMMAR",
+      "parts": [
+        {
+          "part": "PART ONE",
+          "instructions": "Read this article and for each question circle the correct letter A, B, C, D. Only one answer is possible.",
+          "text": "Space exploration has always fascinated humanity, and recent years have seen (6) ______ incredible advances in this field. Private companies are now working alongside government agencies to develop new technologies for space travel. Many scientists believe that establishing colonies on other planets could be (7) ______ solution to overpopulation on Earth. However, the challenges are enormous. Astronauts must deal with radiation, isolation, and (8) ______ physical effects of zero gravity. Despite these difficulties, several missions to Mars are currently being planned. If these missions are successful, they (9) ______ pave the way for human settlement on the Red Planet. The cost of space exploration is significant, but many argue that the scientific knowledge and technological innovations (10) ______ from these programs benefit all of humanity.",
+          "questions": [
+            {
+              "id": 6,
+              "question": "6. A some B many C much D an",
+              "type": "multiple_choice",
+              "options": ["some", "many", "much", "an"],
+              "correct_answer": 0
+            },
+            {
+              "id": 7,
+              "question": "7. A a B an C the D some",
+              "type": "multiple_choice",
+              "options": ["a", "an", "the", "some"],
+              "correct_answer": 0
+            },
+            {
+              "id": 8,
+              "question": "8. A a B an C the D some",
+              "type": "multiple_choice",
+              "options": ["a", "an", "the", "some"],
+              "correct_answer": 2
+            },
+            {
+              "id": 9,
+              "question": "9. A will B would C might D must",
+              "type": "multiple_choice",
+              "options": ["will", "would", "might", "must"],
+              "correct_answer": 0
+            },
+            {
+              "id": 10,
+              "question": "10. A came B coming C come D comes",
+              "type": "multiple_choice",
+              "options": ["came", "coming", "come", "comes"],
+              "correct_answer": 1
+            }
+          ]
+        },
+        {
+          "part": "PART TWO",
+          "instructions": "Put the verbs given in brackets into the correct forms",
+          "questions": [
+            {
+              "id": 11,
+              "question": "11. If scientists _________________ (discover) life on Mars, it would change our understanding of the universe.",
+              "type": "open_ended",
+              "correct_answer": "discovered"
+            },
+            {
+              "id": 12,
+              "question": "12. The space station _________________ (orbit) Earth for over twenty years before it was decommissioned.",
+              "type": "open_ended",
+              "correct_answer": "had been orbiting"
+            },
+            {
+              "id": 13,
+              "question": "13. The new telescope _________________ (launch) into space next year by NASA.",
+              "type": "open_ended",
+              "correct_answer": "will be launched"
+            },
+            {
+              "id": 14,
+              "question": "14. Look at the countdown! The rocket _________________ (take off) in thirty seconds.",
+              "type": "open_ended",
+              "correct_answer": "is going to take off"
+            },
+            {
+              "id": 15,
+              "question": "15. 'Have you seen the astronaut?' 'Yes, she _________________ (just/return) from her spacewalk.'",
+              "type": "open_ended",
+              "correct_answer": "has just returned"
+            }
+          ]
+        },
+        {
+          "part": "PART THREE",
+          "instructions": "Read the text and use the words in CAPITALS to form a word which fits into the gap in the same line.",
+          "text": "UNIVERSITY RESEARCH UPDATE\nWe are excited to share some remarkable (16) ........................ from our marine biology department. The team has made significant (17) ........................ in understanding coral reef ecosystems. This research has important (18) ........................ for ocean conservation efforts worldwide. The (19) ........................ of our scientists has been truly exceptional, and their findings will contribute to the (20) ........................ of marine life for future generations.",
+          "questions": [
+            {
+              "id": 16,
+              "question": "(16) ........................ from our marine biology department (DISCOVER)",
+              "type": "word_form",
+              "correct_answer": "discoveries"
+            },
+            {
+              "id": 17,
+              "question": "(17) ........................ in understanding coral reef ecosystems (ACHIEVE)",
+              "type": "word_form",
+              "correct_answer": "achievements"
+            },
+            {
+              "id": 18,
+              "question": "(18) ........................ for ocean conservation efforts (IMPLY)",
+              "type": "word_form",
+              "correct_answer": "implications"
+            },
+            {
+              "id": 19,
+              "question": "(19) ........................ of our scientists (DEDICATE)",
+              "type": "word_form",
+              "correct_answer": "dedication"
+            },
+            {
+              "id": 20,
+              "question": "(20) ........................ of marine life (PRESERVE)",
+              "type": "word_form",
+              "correct_answer": "preservation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "WRITING",
+      "instructions": "Read the email below and fill each space with one word only.",
+      "text": "Dear Dr Martinez,\n\nI hope this email finds you well. I am writing to inquire (21).................... the possibility of joining your research team for the upcoming marine conservation project. I recently completed my Master's degree (22).................... Marine Biology and I am particularly interested (23).................... coral reef restoration.\n\nDuring my studies, I had the opportunity to participate (24).................... several field research expeditions, where I gained hands-on experience with underwater data collection and marine ecosystem analysis. I believe my background and passion for ocean conservation would make me a suitable candidate (25).................... this important research initiative.\n\nI would greatly appreciate the chance to discuss this opportunity with you in more detail.\n\nBest regards,\nSamantha Chen",
+      "questions": [
+        {
+          "id": 21,
+          "question": "I am writing to inquire (21).................... the possibility",
+          "type": "fill_in_blank",
+          "correct_answer": "about"
+        },
+        {
+          "id": 22,
+          "question": "I recently completed my Master's degree (22).................... Marine Biology",
+          "type": "fill_in_blank",
+          "correct_answer": "in"
+        },
+        {
+          "id": 23,
+          "question": "I am particularly interested (23).................... coral reef restoration",
+          "type": "fill_in_blank",
+          "correct_answer": "in"
+        },
+        {
+          "id": 24,
+          "question": "I had the opportunity to participate (24).................... several field research expeditions",
+          "type": "fill_in_blank",
+          "correct_answer": "in"
+        },
+        {
+          "id": 25,
+          "question": "make me a suitable candidate (25).................... this important research initiative",
+          "type": "fill_in_blank",
+          "correct_answer": "for"
+        }
+      ]
+    }
+  ]
+} 

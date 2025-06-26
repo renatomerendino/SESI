@@ -1,0 +1,214 @@
+{
+  "sections": [
+    {
+      "title": "READING",
+      "passage": "Dr. Sarah Martinez has been working as a marine biologist for fifteen years, but her recent discovery in the Pacific Ocean has changed everything she thought she knew about deep-sea creatures. Last summer, while exploring a previously unmapped underwater canyon, she and her team discovered a new species of bioluminescent fish that seems to communicate through patterns of light. The fish, which they named 'Lumina profundus', lives at depths of over 2,000 meters where sunlight never reaches. What makes this discovery particularly exciting is that these fish appear to have developed a complex social structure based entirely on light signals. Dr. Martinez spent months analyzing the footage and finally published her findings in the Journal of Marine Science. The discovery has attracted international attention, and several research institutions have already contacted her team to collaborate on further studies. This breakthrough could revolutionize our understanding of how life adapts to extreme environments.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main purpose of this text?",
+          "type": "multiple_choice",
+          "options": [
+            "To describe the career of a marine biologist",
+            "To report on a scientific discovery",
+            "To explain deep-sea exploration techniques"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 2,
+          "question": "Where was the discovery made?",
+          "type": "multiple_choice",
+          "options": [
+            "In a laboratory",
+            "In an underwater canyon",
+            "In a marine research center"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 3,
+          "question": "What makes the discovered fish species special?",
+          "type": "multiple_choice",
+          "options": [
+            "They live in shallow water",
+            "They communicate through light patterns",
+            "They are the largest fish ever found"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 4,
+          "question": "Dr. Martinez has been working as a marine biologist for more than twenty years.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        },
+        {
+          "id": 5,
+          "question": "The research has attracted interest from other scientific institutions.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 0
+        }
+      ]
+    },
+    {
+      "title": "GRAMMAR",
+      "parts": [
+        {
+          "part": "PART ONE",
+          "instructions": "Read this article and for each question circle the correct letter A, B, C, D. Only one answer is possible.",
+          "text": "Urban gardening has become increasingly popular in recent years. Many city dwellers are (6) ______ their own vegetables on balconies, rooftops, and in small community plots. This trend is not only helping people save money on groceries, but it's also (7) ______ them to connect with nature in urban environments. Growing your own food can be (8) ______ rewarding experience, especially when you see the first tomatoes or herbs (9) ______ in your garden. However, urban gardening does require some planning and patience. You need to consider (10) ______ much sunlight your space receives and choose plants accordingly.",
+          "questions": [
+            {
+              "id": 6,
+              "question": "(6) ______",
+              "type": "multiple_choice",
+              "options": ["A growing", "B grown", "C grow", "D grows"],
+              "correct_answer": 0
+            },
+            {
+              "id": 7,
+              "question": "(7) ______",
+              "type": "multiple_choice",
+              "options": ["A allow", "B allowed", "C allowing", "D allows"],
+              "correct_answer": 2
+            },
+            {
+              "id": 8,
+              "question": "(8) ______",
+              "type": "multiple_choice",
+              "options": ["A a", "B an", "C the", "D -"],
+              "correct_answer": 0
+            },
+            {
+              "id": 9,
+              "question": "(9) ______",
+              "type": "multiple_choice",
+              "options": ["A appear", "B appearing", "C appeared", "D appears"],
+              "correct_answer": 1
+            },
+            {
+              "id": 10,
+              "question": "(10) ______",
+              "type": "multiple_choice",
+              "options": ["A what", "B which", "C how", "D where"],
+              "correct_answer": 2
+            }
+          ]
+        },
+        {
+          "part": "PART TWO",
+          "instructions": "Put the verbs given in brackets into the correct forms",
+          "questions": [
+            {
+              "id": 11,
+              "question": "If I _________________ (study) harder, I would have passed the driving test.",
+              "type": "open_ended",
+              "correct_answer": "had studied"
+            },
+            {
+              "id": 12,
+              "question": "The chef _________________ (prepare) the menu when the power went out.",
+              "type": "open_ended",
+              "correct_answer": "was preparing"
+            },
+            {
+              "id": 13,
+              "question": "The new shopping center _________________ (open) next month.",
+              "type": "open_ended",
+              "correct_answer": "will be opened"
+            },
+            {
+              "id": 14,
+              "question": "Don't worry about dinner. I _________________ (cook) something special tonight.",
+              "type": "open_ended",
+              "correct_answer": "will cook"
+            },
+            {
+              "id": 15,
+              "question": "We _________________ (live) in this neighborhood for ten years now.",
+              "type": "open_ended",
+              "correct_answer": "have been living"
+            }
+          ]
+        },
+        {
+          "part": "PART THREE",
+          "instructions": "Read the text and use the words in CAPITALS to form a word which fits into the gap in the same line.",
+          "text": "TRAVEL BLOG: SUSTAINABLE TOURISM\nTraveling sustainably has become a major (16) _________________ for many tourists today. People are increasingly aware of the environmental impact of their journeys and are seeking more (17) _________________ ways to explore the world. This shift in attitude represents a significant (18) _________________ from traditional mass tourism. Many travel (19) _________________ now offer eco-friendly packages that minimize carbon footprints. The tourism industry has shown remarkable (20) _________________ in adapting to these new demands and creating more sustainable options for travelers.",
+          "questions": [
+            {
+              "id": 16,
+              "question": "(16) _________________ for many tourists today (PRIOR)",
+              "type": "word_form",
+              "correct_answer": "priority"
+            },
+            {
+              "id": 17,
+              "question": "(17) _________________ ways to explore the world (RESPONSE)",
+              "type": "word_form",
+              "correct_answer": "responsible"
+            },
+            {
+              "id": 18,
+              "question": "(18) _________________ from traditional mass tourism (DEPART)",
+              "type": "word_form",
+              "correct_answer": "departure"
+            },
+            {
+              "id": 19,
+              "question": "(19) _________________ now offer eco-friendly packages (ORGANIZE)",
+              "type": "word_form",
+              "correct_answer": "organizers"
+            },
+            {
+              "id": 20,
+              "question": "(20) _________________ in adapting to these new demands (FLEXIBLE)",
+              "type": "word_form",
+              "correct_answer": "flexibility"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "WRITING",
+      "instructions": "Read the newsletter from the Green City Initiative and fill each space with one word only.",
+      "text": "Dear Green City Members,\nWe are excited to inform you (21) _________________ our upcoming Earth Day celebration event. The festival will take place (22) _________________ Saturday, April 22nd, from 10 AM to 6 PM in Central Park. This year's theme focuses on renewable energy and sustainable living practices.\nWe (23) _________________ delighted to announce that several environmental experts will be giving presentations throughout the day. There will also be workshops on composting, solar panel installation, and organic gardening.\n(24) _________________ you are interested in volunteering for the event, please contact us by April 15th. We need help with registration, cleanup, and workshop assistance.\nWe hope to (25) _________________ you there for this important community gathering.\nBest regards,\nThe Green City Initiative Team",
+      "questions": [
+        {
+          "id": 21,
+          "question": "We are excited to inform you (21) _________________ our upcoming Earth Day celebration",
+          "type": "fill_in_blank",
+          "correct_answer": "about"
+        },
+        {
+          "id": 22,
+          "question": "The festival will take place (22) _________________ Saturday, April 22nd",
+          "type": "fill_in_blank",
+          "correct_answer": "on"
+        },
+        {
+          "id": 23,
+          "question": "We (23) _________________ delighted to announce that several environmental experts",
+          "type": "fill_in_blank",
+          "correct_answer": "are"
+        },
+        {
+          "id": 24,
+          "question": "(24) _________________ you are interested in volunteering for the event",
+          "type": "fill_in_blank",
+          "correct_answer": "If"
+        },
+        {
+          "id": 25,
+          "question": "We hope to (25) _________________ you there for this important community gathering",
+          "type": "fill_in_blank",
+          "correct_answer": "see"
+        }
+      ]
+    }
+  ]
+} 

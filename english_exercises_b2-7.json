@@ -1,0 +1,210 @@
+{
+  "sections": [
+    {
+      "title": "READING",
+      "passage": "The 'gig economy' refers to a labor market characterized by the prevalence of short-term contracts or freelance work, as opposed to permanent jobs. Digital platforms like Uber, Deliveroo, and Upwork are central to this model, connecting service providers directly with customers. This system offers undeniable flexibility, which is a major draw for many workers who can choose their own hours and be their own boss. It allows individuals to supplement their income or work around other commitments, such as education or family care. However, the gig economy has also faced significant criticism. A primary concern is the lack of job security and benefits. Gig workers are typically classified as independent contractors, meaning they often do not receive health insurance, paid sick leave, or retirement contributions from the companies they work for. This can lead to financial instability, especially when work is inconsistent. There is an ongoing debate about the legal classification of these workers, with some arguing they should be treated as employees to ensure fair labor rights. As the gig economy continues to expand, it is reshaping our understanding of work and employment in the 21st century.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main idea of the passage?",
+          "type": "multiple_choice",
+          "options": [
+            "How to become a successful freelancer",
+            "The technology behind digital work platforms", 
+            "An overview of the gig economy, its benefits, and its drawbacks"
+          ],
+          "correct_answer": 2
+        },
+        {
+          "id": 2,
+          "question": "What is mentioned as a major benefit of the gig economy for workers?",
+          "type": "multiple_choice",
+          "options": [
+            "High, stable income",
+            "Flexibility and control over their work hours",
+            "Comprehensive health insurance and retirement plans"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 3,
+          "question": "Critics are concerned that gig workers often lack job security and benefits.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 0
+        },
+        {
+          "id": 4,
+          "question": "The passage states that gig workers are always classified as employees with full rights.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        },
+        {
+          "id": 5,
+          "question": "The text suggests that the gig economy is a declining trend.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        }
+      ]
+    },
+    {
+      "title": "GRAMMAR",
+      "parts": [
+        {
+          "part": "PART ONE",
+          "instructions": "Read this article and for each question circle the correct letter A, B, C, D. Only one answer is possible.",
+          "text": "Mindfulness is the practice of paying attention to the present moment (6) ______ judging it. This ancient practice, which has roots in Buddhist meditation, has become widely recognized for its mental health benefits. Many people find that it helps to reduce stress and anxiety. (7) ______ you practice it for just a few minutes each day, it can make a real difference. There are many apps and guided meditations available to help beginners get started. The key is consistency. It's more effective to practice for a short time every day (8) ______ to do a long session once a month. The goal is not to empty your mind, but rather to observe your thoughts (9) ______ letting them control you. It's a skill that can be learned, and (10) ______ anyone can benefit from it.",
+          "questions": [
+            {
+              "id": 6,
+              "question": "6. A with B without C within D for",
+              "type": "multiple_choice",
+              "options": ["with", "without", "within", "for"],
+              "correct_answer": 1
+            },
+            {
+              "id": 7,
+              "question": "7. A Although B Even if C As long as D Because",
+              "type": "multiple_choice",
+              "options": ["Although", "Even if", "As long as", "Because"],
+              "correct_answer": 1
+            },
+            {
+              "id": 8,
+              "question": "8. A than B then C as D that",
+              "type": "multiple_choice",
+              "options": ["than", "then", "as", "that"],
+              "correct_answer": 0
+            },
+            {
+              "id": 9,
+              "question": "9. A rather than B instead C without D except",
+              "type": "multiple_choice",
+              "options": ["rather than", "instead", "without", "except"],
+              "correct_answer": 2
+            },
+            {
+              "id": 10,
+              "question": "10. A mostly B nearly C almost D quite",
+              "type": "multiple_choice",
+              "options": ["mostly", "nearly", "almost", "quite"],
+              "correct_answer": 2
+            }
+          ]
+        },
+        {
+          "part": "PART TWO",
+          "instructions": "Put the verbs given in brackets into the correct forms",
+          "questions": [
+            {
+              "id": 11,
+              "question": "11. He would have finished the race if he _________________ (not injure) his leg.",
+              "type": "open_ended",
+              "correct_answer": "had not injured"
+            },
+            {
+              "id": 12,
+              "question": "12. I _________________ (read) a book when the fire alarm went off.",
+              "type": "open_ended",
+              "correct_answer": "was reading"
+            },
+            {
+              "id": 13,
+              "question": "13. The new company policy _________________ (announce) to all employees yesterday.",
+              "type": "open_ended",
+              "correct_answer": "was announced"
+            },
+            {
+              "id": 14,
+              "question": "14. 'I can't understand this instruction manual.' 'Don't worry, I _________________ (explain) it to you.'",
+              "type": "open_ended",
+              "correct_answer": "will explain"
+            },
+            {
+              "id": 15,
+              "question": "15. 'Is Maria at home?' 'No, she _________________ (not come) back from work yet.'",
+              "type": "open_ended",
+              "correct_answer": "hasn't come"
+            }
+          ]
+        },
+        {
+          "part": "PART THREE",
+          "instructions": "Read the text and use the words in CAPITALS to form a word which fits into the gap in the same line.",
+          "text": "Effective communication is crucial in any workplace. A lack of clarity can lead to (16) ........................ and reduce productivity. It's important for managers to be (17) ........................ so that employees feel comfortable sharing their ideas and concerns. Good listening skills are just as important as the (18) ........................ to speak clearly. Building a culture of open dialogue requires a conscious (19) ........................ from everyone on the team. Ultimately, strong communication fosters a more (20) ........................ and positive work environment.",
+          "questions": [
+            {
+              "id": 16,
+              "question": "(16) ........................ and reduce productivity (UNDERSTAND)",
+              "type": "word_form",
+              "correct_answer": "misunderstanding"
+            },
+            {
+              "id": 17,
+              "question": "(17) ........................ so that employees feel comfortable (APPROACH)",
+              "type": "word_form",
+              "correct_answer": "approachable"
+            },
+            {
+              "id": 18,
+              "question": "(18) ........................ to speak clearly (ABLE)",
+              "type": "word_form",
+              "correct_answer": "ability"
+            },
+            {
+              "id": 19,
+              "question": "(19) ........................ from everyone on the team (COMMIT)",
+              "type": "word_form",
+              "correct_answer": "commitment"
+            },
+            {
+              "id": 20,
+              "question": "(20) ........................ and positive work environment (COLLABORATE)",
+              "type": "word_form",
+              "correct_answer": "collaborative"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "WRITING",
+      "instructions": "Read the email confirming a subscription and fill each space with one word only.",
+      "text": "Subject: Welcome! Your Subscription is Confirmed\n\nDear User,\n\nThank you for subscribing to our weekly newsletter! You are now on the list to receive the latest updates, articles, and special offers directly (21).................... your inbox.\n\nWe're excited to have you (22).................... part of our community. To make sure our emails reach you, please add our email address to your contacts.\n\nYou can unsubscribe at any time (23).................... clicking the link at the bottom of any email we send. If you have any questions, feel (24).................... to contact our support team.\n\nWe hope you enjoy the content. We look forward (25).................... connecting with you.\n\nBest wishes,\nThe Team",
+      "questions": [
+        {
+          "id": 21,
+          "question": "receive the latest updates, articles, and special offers directly (21).................... your inbox",
+          "type": "fill_in_blank",
+          "correct_answer": "in"
+        },
+        {
+          "id": 22,
+          "question": "We're excited to have you (22).................... part of our community",
+          "type": "fill_in_blank",
+          "correct_answer": "as"
+        },
+        {
+          "id": 23,
+          "question": "You can unsubscribe at any time (23).................... clicking the link",
+          "type": "fill_in_blank",
+          "correct_answer": "by"
+        },
+        {
+          "id": 24,
+          "question": "If you have any questions, feel (24).................... to contact our support team",
+          "type": "fill_in_blank",
+          "correct_answer": "free"
+        },
+        {
+          "id": 25,
+          "question": "We look forward (25).................... connecting with you",
+          "type": "fill_in_blank",
+          "correct_answer": "to"
+        }
+      ]
+    }
+  ]
+} 

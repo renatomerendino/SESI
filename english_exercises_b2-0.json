@@ -1,0 +1,210 @@
+{
+  "sections": [
+    {
+      "title": "READING",
+      "passage": "Digital nomadism has become increasingly popular in recent years, especially among young professionals seeking greater flexibility in their work-life balance. This lifestyle involves working remotely while traveling to different locations around the world, often staying in each place for weeks or months before moving on. While the concept sounds appealing, it comes with both significant advantages and considerable challenges. On the positive side, digital nomads enjoy unprecedented freedom to explore new cultures, learn languages, and expand their global perspective. They can escape traditional office constraints and often find their creativity enhanced by changing environments. Many report feeling more motivated and productive when working from inspiring locations. However, the lifestyle also presents substantial difficulties. Maintaining consistent internet connectivity can be problematic in some destinations, potentially affecting work quality and client relationships. Time zone differences create scheduling challenges for meetings and collaboration. Additionally, the constant movement can lead to feelings of isolation and difficulty in forming deep, lasting relationships. Financial planning becomes more complex, as nomads must budget for travel expenses while managing irregular income streams. Furthermore, legal considerations such as visa requirements, tax obligations, and health insurance coverage vary significantly between countries, requiring careful research and planning.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main topic of the passage?",
+          "type": "multiple_choice",
+          "options": [
+            "The benefits of remote work",
+            "Digital nomadism and its pros and cons", 
+            "How to travel while working"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 2,
+          "question": "According to the text, digital nomads typically stay in each location for...",
+          "type": "multiple_choice",
+          "options": [
+            "a few days",
+            "weeks or months",
+            "several years"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 3,
+          "question": "The passage mentions that changing environments can enhance creativity.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 0
+        },
+        {
+          "id": 4,
+          "question": "Digital nomads never face problems with internet connectivity.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        },
+        {
+          "id": 5,
+          "question": "Financial planning is mentioned as being more complex for digital nomads.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 0
+        }
+      ]
+    },
+    {
+      "title": "GRAMMAR",
+      "parts": [
+        {
+          "part": "PART ONE",
+          "instructions": "Read this article and for each question circle the correct letter A, B, C, D. Only one answer is possible.",
+          "text": "Climate change is one of (6) ______ most pressing issues of our time. Scientists have been warning us for decades that global temperatures are rising due to human activities. Many countries are now taking action to reduce (7) ______ carbon emissions, but progress has been slow. If we had started addressing this problem earlier, we (8) ______ have prevented some of the damage we see today. Renewable energy sources like solar and wind power are becoming (9) ______ popular as technology improves and costs decrease. However, we still need to do much more (10) ______ we want to avoid catastrophic consequences for future generations.",
+          "questions": [
+            {
+              "id": 6,
+              "question": "6. A the B a C some D many",
+              "type": "multiple_choice",
+              "options": ["the", "a", "some", "many"],
+              "correct_answer": 0
+            },
+            {
+              "id": 7,
+              "question": "7. A they B them C their D there",
+              "type": "multiple_choice",
+              "options": ["they", "them", "their", "there"],
+              "correct_answer": 2
+            },
+            {
+              "id": 8,
+              "question": "8. A will B would C might D should",
+              "type": "multiple_choice",
+              "options": ["will", "would", "might", "should"],
+              "correct_answer": 2
+            },
+            {
+              "id": 9,
+              "question": "9. A more B most C much D many",
+              "type": "multiple_choice",
+              "options": ["more", "most", "much", "many"],
+              "correct_answer": 0
+            },
+            {
+              "id": 10,
+              "question": "10. A unless B if C because D although",
+              "type": "multiple_choice",
+              "options": ["unless", "if", "because", "although"],
+              "correct_answer": 1
+            }
+          ]
+        },
+        {
+          "part": "PART TWO",
+          "instructions": "Put the verbs given in brackets into the correct forms",
+          "questions": [
+            {
+              "id": 11,
+              "question": "11. If I _________________ (win) the lottery, I would donate half of the money to charity.",
+              "type": "open_ended",
+              "correct_answer": "won"
+            },
+            {
+              "id": 12,
+              "question": "12. She _________________ (study) French for three years before she moved to Paris.",
+              "type": "open_ended",
+              "correct_answer": "had been studying"
+            },
+            {
+              "id": 13,
+              "question": "13. The new shopping center _________________ (open) next month by the mayor.",
+              "type": "open_ended",
+              "correct_answer": "will be opened"
+            },
+            {
+              "id": 14,
+              "question": "14. Look at those dark clouds! It _________________ (rain) soon.",
+              "type": "open_ended",
+              "correct_answer": "is going to rain"
+            },
+            {
+              "id": 15,
+              "question": "15. 'Where's Sarah?' 'She _________________ (already/leave) for the airport.'",
+              "type": "open_ended",
+              "correct_answer": "has already left"
+            }
+          ]
+        },
+        {
+          "part": "PART THREE",
+          "instructions": "Read the text and use the words in CAPITALS to form a word which fits into the gap in the same line.",
+          "text": "COMPANY ANNOUNCEMENT\nWe are pleased to announce some exciting (16) ........................ in our company. Due to the (17) ........................ growth of our business, we will be expanding our operations internationally. This (18) ........................ will create new job opportunities for our employees. We believe that our (19) ........................ and dedication have made this expansion possible. The (20) ........................ process will begin next quarter.",
+          "questions": [
+            {
+              "id": 16,
+              "question": "(16) ........................ in our company (DEVELOP)",
+              "type": "word_form",
+              "correct_answer": "developments"
+            },
+            {
+              "id": 17,
+              "question": "(17) ........................ growth of our business (SUCCESS)",
+              "type": "word_form",
+              "correct_answer": "successful"
+            },
+            {
+              "id": 18,
+              "question": "(18) ........................ will create new job opportunities (EXPAND)",
+              "type": "word_form",
+              "correct_answer": "expansion"
+            },
+            {
+              "id": 19,
+              "question": "(19) ........................ and dedication (COMMIT)",
+              "type": "word_form",
+              "correct_answer": "commitment"
+            },
+            {
+              "id": 20,
+              "question": "(20) ........................ process will begin (IMPLEMENT)",
+              "type": "word_form",
+              "correct_answer": "implementation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "WRITING",
+      "instructions": "Read the email below and fill each space with one word only.",
+      "text": "Dear Ms Johnson,\n\nI am writing (21).................... response to your advertisement for a Marketing Assistant position. I have recently graduated (22).................... university with a degree in Business Administration and I am very interested (23).................... working for your company.\n\nDuring my studies, I gained valuable experience (24).................... an internship at a local marketing agency, where I learned about digital marketing strategies and customer relationship management. I believe that my skills and enthusiasm would make me a valuable addition (25).................... your team.\n\nI would be grateful for the opportunity to discuss my application further. Please find my CV attached.\n\nYours sincerely,\nAlex Thompson",
+      "questions": [
+        {
+          "id": 21,
+          "question": "I am writing (21).................... response to your advertisement",
+          "type": "fill_in_blank",
+          "correct_answer": "in"
+        },
+        {
+          "id": 22,
+          "question": "I have recently graduated (22).................... university",
+          "type": "fill_in_blank",
+          "correct_answer": "from"
+        },
+        {
+          "id": 23,
+          "question": "I am very interested (23).................... working for your company",
+          "type": "fill_in_blank",
+          "correct_answer": "in"
+        },
+        {
+          "id": 24,
+          "question": "I gained valuable experience (24).................... an internship",
+          "type": "fill_in_blank",
+          "correct_answer": "through"
+        },
+        {
+          "id": 25,
+          "question": "make me a valuable addition (25).................... your team",
+          "type": "fill_in_blank",
+          "correct_answer": "to"
+        }
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,210 @@
+{
+  "sections": [
+    {
+      "title": "READING",
+      "passage": "The world's bee population is facing an unprecedented crisis, which has profound implications for global food security. Bees are vital pollinators, responsible for fertilizing a third of the food we consume, including fruits, vegetables, and nuts. However, in recent decades, beekeepers have reported alarming declines in bee colonies, a phenomenon often referred to as 'Colony Collapse Disorder.' The causes are believed to be a combination of factors. Widespread use of pesticides, particularly neonicotinoids, can be toxic to bees, impairing their navigation and immune systems. Another major threat is habitat loss due to agriculture and urbanization, which reduces the availability of flowers bees need for food. Climate change also plays a role, altering the times when flowers bloom and disrupting the delicate synchronization between plants and their pollinators. Finally, parasites like the Varroa mite weaken bee colonies, making them more susceptible to viruses. Conservation efforts are underway, including promoting bee-friendly gardens, restoring natural habitats, and implementing stricter regulations on harmful pesticides, but the challenge remains significant.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the central theme of the passage?",
+          "type": "multiple_choice",
+          "options": [
+            "Beekeeping as a hobby",
+            "The threats facing the global bee population and their importance", 
+            "The chemical composition of pesticides"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 2,
+          "question": "According to the text, why are bees so important?",
+          "type": "multiple_choice",
+          "options": [
+            "They produce honey and wax",
+            "They are a popular subject for nature documentaries",
+            "They are essential for pollinating a large portion of our food crops"
+          ],
+          "correct_answer": 2
+        },
+        {
+          "id": 3,
+          "question": "Habitat loss is mentioned as one of the threats to bee populations.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 0
+        },
+        {
+          "id": 4,
+          "question": "The passage suggests that there is only one single cause for the decline in bee colonies.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        },
+        {
+          "id": 5,
+          "question": "The Varroa mite is a parasite that helps strengthen bee colonies.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        }
+      ]
+    },
+    {
+      "title": "GRAMMAR",
+      "parts": [
+        {
+          "part": "PART ONE",
+          "instructions": "Read this article and for each question circle the correct letter A, B, C, D. Only one answer is possible.",
+          "text": "Electric vehicles (EVs) are becoming an increasingly common sight on our roads. They are seen as a key technology in the fight (6) ______ climate change, as they produce zero tailpipe emissions. Many governments are offering incentives (7) ______ encourage people to make the switch from gasoline-powered cars. While the initial purchase price of an EV can be higher, owners often save money in the long run (8) ______ lower fuel and maintenance costs. The biggest challenge that remains is the charging infrastructure. (9) ______ there are enough fast and reliable charging stations, widespread adoption will be difficult. However, with rapid advances in battery technology and growing investment, the future of personal transportation looks (10) ______ to be electric.",
+          "questions": [
+            {
+              "id": 6,
+              "question": "6. A for B with C against D to",
+              "type": "multiple_choice",
+              "options": ["for", "with", "against", "to"],
+              "correct_answer": 2
+            },
+            {
+              "id": 7,
+              "question": "7. A for B to C so D in order",
+              "type": "multiple_choice",
+              "options": ["for", "to", "so", "in order"],
+              "correct_answer": 1
+            },
+            {
+              "id": 8,
+              "question": "8. A due to B because C since D as",
+              "type": "multiple_choice",
+              "options": ["due to", "because", "since", "as"],
+              "correct_answer": 0
+            },
+            {
+              "id": 9,
+              "question": "9. A If B When C Unless D Since",
+              "type": "multiple_choice",
+              "options": ["If", "When", "Unless", "Since"],
+              "correct_answer": 2
+            },
+            {
+              "id": 10,
+              "question": "10. A likely B probable C possible D certainly",
+              "type": "multiple_choice",
+              "options": ["likely", "probable", "possible", "certainly"],
+              "correct_answer": 0
+            }
+          ]
+        },
+        {
+          "part": "PART TWO",
+          "instructions": "Put the verbs given in brackets into the correct forms",
+          "questions": [
+            {
+              "id": 11,
+              "question": "11. If the city had invested in better public transport, the traffic ____________ (not be) so bad now.",
+              "type": "open_ended",
+              "correct_answer": "would not have been"
+            },
+            {
+              "id": 12,
+              "question": "12. The scientists ____________ (analyze) the water samples when they discovered the new bacteria.",
+              "type": "open_ended",
+              "correct_answer": "were analyzing"
+            },
+            {
+              "id": 13,
+              "question": "13. A new national park ____________ (establish) last year to protect endangered species.",
+              "type": "open_ended",
+              "correct_answer": "was established"
+            },
+            {
+              "id": 14,
+              "question": "14. 'The recycling bin is full.' 'Okay, I ____________ (take) it out.'",
+              "type": "open_ended",
+              "correct_answer": "will take"
+            },
+            {
+              "id": 15,
+              "question": "15. 'Have you seen the documentary on climate change?' 'No, I ____________ (not have) the time yet.'",
+              "type": "open_ended",
+              "correct_answer": "haven't had"
+            }
+          ]
+        },
+        {
+          "part": "PART THREE",
+          "instructions": "Read the text and use the words in CAPITALS to form a word which fits into the gap in the same line.",
+          "text": "The preservation of historical buildings is of great importance. These structures provide a tangible (16) ........................ to our past and cultural heritage. Their (17) ........................ requires specialized knowledge and significant investment. Many people believe it is a civic (18) ........................ to protect these landmarks for future generations. The (19) ........................ of an old building can completely transform a neighborhood, bringing new life and a sense of pride. These projects are often a (20) ........................ of modern engineering and traditional craftsmanship.",
+          "questions": [
+            {
+              "id": 16,
+              "question": "(16) ........................ to our past and cultural heritage (CONNECT)",
+              "type": "word_form",
+              "correct_answer": "connection"
+            },
+            {
+              "id": 17,
+              "question": "(17) ........................ requires specialized knowledge (CONSERVE)",
+              "type": "word_form",
+              "correct_answer": "conservation"
+            },
+            {
+              "id": 18,
+              "question": "(18) ........................ to protect these landmarks (RESPONSIBLE)",
+              "type": "word_form",
+              "correct_answer": "responsibility"
+            },
+            {
+              "id": 19,
+              "question": "(19) ........................ of an old building (RESTORE)",
+              "type": "word_form",
+              "correct_answer": "restoration"
+            },
+            {
+              "id": 20,
+              "question": "(20) ........................ of modern engineering and traditional craftsmanship (COMBINE)",
+              "type": "word_form",
+              "correct_answer": "combination"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "WRITING",
+      "instructions": "Read the public service announcement about a water shortage and fill each space with one word only.",
+      "text": "Subject: Urgent: Water Conservation Notice\n\nDear Residents,\n\nThis is an urgent notice regarding a critical water shortage (21).................... our region due to the ongoing lack of rainfall. We are asking for your immediate cooperation in conserving water.\n\nPlease limit all non-essential water usage. This includes watering lawns, washing cars, and filling swimming pools (22).................... further notice. We must all do our (23).................... to ensure there is enough water for essential needs.\n\nWe appreciate your understanding and cooperation (24).................... this difficult time. Further updates will be provided as the situation develops.\n\nThank you (25).................... your help in protecting our community's water supply.\n\nSincerely,\nThe City Water Department",
+      "questions": [
+        {
+          "id": 21,
+          "question": "a critical water shortage (21).................... our region",
+          "type": "fill_in_blank",
+          "correct_answer": "in"
+        },
+        {
+          "id": 22,
+          "question": "filling swimming pools (22).................... further notice",
+          "type": "fill_in_blank",
+          "correct_answer": "until"
+        },
+        {
+          "id": 23,
+          "question": "We must all do our (23).................... to ensure there is enough water",
+          "type": "fill_in_blank",
+          "correct_answer": "part"
+        },
+        {
+          "id": 24,
+          "question": "your understanding and cooperation (24).................... this difficult time",
+          "type": "fill_in_blank",
+          "correct_answer": "during"
+        },
+        {
+          "id": 25,
+          "question": "Thank you (25).................... your help",
+          "type": "fill_in_blank",
+          "correct_answer": "for"
+        }
+      ]
+    }
+  ]
+} 

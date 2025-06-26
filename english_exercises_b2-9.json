@@ -1,0 +1,214 @@
+{
+  "sections": [
+    {
+      "title": "READING",
+      "passage": "The concept of 'fast fashion'—inexpensive clothing produced rapidly by mass-market retailers in response to the latest trends—has dramatically changed the fashion industry and our shopping habits. While it makes trendy clothing accessible to more people, it comes at a significant environmental and social cost. The production process often involves high water consumption, toxic dyes, and synthetic fabrics that do not biodegrade. This leads to vast amounts of textile waste, as garments are often worn only a few times before being discarded. Furthermore, to keep prices low, production is often outsourced to countries with lax labor regulations, leading to poor working conditions and low wages for garment workers. Consumers are becoming more aware of these issues and are starting to seek out more sustainable alternatives, such as buying second-hand, choosing clothes made from eco-friendly materials, and supporting brands that are transparent about their supply chains. The shift towards 'slow fashion' encourages buying fewer items of higher quality that will last longer.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main topic of the passage?",
+          "type": "multiple_choice",
+          "options": [
+            "The latest fashion trends",
+            "The economic benefits of the fashion industry",
+            "The negative impacts of fast fashion and the trend towards sustainability"
+          ],
+          "correct_answer": 2
+        },
+        {
+          "id": 2,
+          "question": "Which of these is mentioned as an environmental problem with fast fashion?",
+          "type": "multiple_choice",
+          "options": [
+            "It makes clothes too expensive",
+            "High water usage and textile waste",
+            "It only uses natural, biodegradable fabrics"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "id": 3,
+          "question": "The passage suggests that fast fashion garments are typically high quality and long-lasting.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        },
+        {
+          "id": 4,
+          "question": "What is 'slow fashion' presented as?",
+          "type": "multiple_choice",
+          "options": [
+            "A more sustainable and conscious way of consuming fashion",
+            "A more expensive version of fast fashion",
+            "A trend that is disappearing"
+          ],
+          "correct_answer": 0
+        },
+        {
+          "id": 5,
+          "question": "According to the text, consumers are completely unaware of the problems with fast fashion.",
+          "type": "true_false",
+          "options": ["TRUE", "FALSE"],
+          "correct_answer": 1
+        }
+      ]
+    },
+    {
+      "title": "GRAMMAR",
+      "parts": [
+        {
+          "part": "PART ONE",
+          "instructions": "Read this article and for each question circle the correct letter A, B, C, D. Only one answer is possible.",
+          "text": "Online learning has become extremely popular. It offers great flexibility, but it requires a lot of self-discipline. Students must be motivated to keep up (6) ______ the coursework. Many courses use video lectures, which students can watch (7) ______ their own pace. (8) ______ the convenience, some students miss the social interaction of a traditional classroom. It is important to choose a platform that provides good support (9) ______ its students. (10) ______, online education is a powerful tool for lifelong learning when used effectively.",
+          "questions": [
+            {
+              "id": 6,
+              "question": "6. A with B to C from D on",
+              "type": "multiple_choice",
+              "options": ["with", "to", "from", "on"],
+              "correct_answer": 0
+            },
+            {
+              "id": 7,
+              "question": "7. A in B on C at D by",
+              "type": "multiple_choice",
+              "options": ["in", "on", "at", "by"],
+              "correct_answer": 2
+            },
+            {
+              "id": 8,
+              "question": "8. A Despite B Although C Because D So",
+              "type": "multiple_choice",
+              "options": ["Despite", "Although", "Because", "So"],
+              "correct_answer": 0
+            },
+            {
+              "id": 9,
+              "question": "9. A for B to C with D about",
+              "type": "multiple_choice",
+              "options": ["for", "to", "with", "about"],
+              "correct_answer": 0
+            },
+            {
+              "id": 10,
+              "question": "10. A Overall B However C Therefore D Instead",
+              "type": "multiple_choice",
+              "options": ["Overall", "However", "Therefore", "Instead"],
+              "correct_answer": 0
+            }
+          ]
+        },
+        {
+          "part": "PART TWO",
+          "instructions": "Put the verbs given in brackets into the correct forms",
+          "questions": [
+            {
+              "id": 11,
+              "question": "11. If she _________________ (study) harder, she would have passed the exam.",
+              "type": "open_ended",
+              "correct_answer": "had studied"
+            },
+            {
+              "id": 12,
+              "question": "12. They _________________ (watch) a movie when the power went out.",
+              "type": "open_ended",
+              "correct_answer": "were watching"
+            },
+            {
+              "id": 13,
+              "question": "13. The missing painting _________________ (find) by a tourist last month.",
+              "type": "open_ended",
+              "correct_answer": "was found"
+            },
+            {
+              "id": 14,
+              "question": "14. 'The phone is ringing.' 'I _________________ (get) it!'",
+              "type": "open_ended",
+              "correct_answer": "will get"
+            },
+            {
+              "id": 15,
+              "question": "15. He _________________ (not finish) his homework yet.",
+              "type": "open_ended",
+              "correct_answer": "has not finished"
+            }
+          ]
+        },
+        {
+          "part": "PART THREE",
+          "instructions": "Read the text and use the words in CAPITALS to form a word which fits into the gap in the same line.",
+          "text": "Starting a business requires careful (16) ........................ . You need a lot of (17) ........................ to succeed. It's not always easy, and you will face many (18) ........................ . However, the feeling of (19) ........................ is very rewarding. Being a successful (20) ........................ is a dream for many.",
+          "questions": [
+            {
+              "id": 16,
+              "question": "(16) ........................ (PLAN)",
+              "type": "word_form",
+              "correct_answer": "planning"
+            },
+            {
+              "id": 17,
+              "question": "(17) ........................ to succeed (DEDICATE)",
+              "type": "word_form",
+              "correct_answer": "dedication"
+            },
+            {
+              "id": 18,
+              "question": "(18) ........................ (CHALLENGING)",
+              "type": "word_form",
+              "correct_answer": "challenges"
+            },
+            {
+              "id": 19,
+              "question": "(19) ........................ is very rewarding (ACHIEVE)",
+              "type": "word_form",
+              "correct_answer": "achievement"
+            },
+            {
+              "id": 20,
+              "question": "(20) ........................ is a dream for many (ENTREPRENEUR)",
+              "type": "word_form",
+              "correct_answer": "entrepreneur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "WRITING",
+      "instructions": "Read the follow-up email and fill each space with one word only.",
+      "text": "Subject: Following up on our meeting\n\nDear John,\n\nI am writing to follow (21).................... on our conversation from last week. It was a pleasure to meet with you and discuss the project. As we discussed, I have attached the proposal for your review.\n\nPlease let me know if you have any questions. I look forward to hearing (22).................... you soon.\n\nWe are very excited (23).................... the possibility of working together. Please send your feedback (24).................... the end of the week.\n\nThank you (25).................... your time and consideration.\n\nBest regards,\nSarah",
+      "questions": [
+        {
+          "id": 21,
+          "question": "I am writing to follow (21).................... on our conversation",
+          "type": "fill_in_blank",
+          "correct_answer": "up"
+        },
+        {
+          "id": 22,
+          "question": "I look forward to hearing (22).................... you soon",
+          "type": "fill_in_blank",
+          "correct_answer": "from"
+        },
+        {
+          "id": 23,
+          "question": "We are very excited (23).................... the possibility of working together",
+          "type": "fill_in_blank",
+          "correct_answer": "about"
+        },
+        {
+          "id": 24,
+          "question": "Please send your feedback (24).................... the end of the week",
+          "type": "fill_in_blank",
+          "correct_answer": "by"
+        },
+        {
+          "id": 25,
+          "question": "Thank you (25).................... your time and consideration",
+          "type": "fill_in_blank",
+          "correct_answer": "for"
+        }
+      ]
+    }
+  ]
+} 

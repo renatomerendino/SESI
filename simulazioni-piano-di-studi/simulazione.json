@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "exportDate": "2025-06-13T09:58:47.251Z",
+    "version": "1.0",
+    "description": "Simulazione Voto di Laurea - Economia"
+  },
+  "esami": [
+    {
+      "nome": "LINGUA INGLESE",
+      "cfu": 9,
+      "votoOttenuto": 0,
+      "votoSimulazione": 26
+    },
+    {
+      "nome": "STORIA ECONOMICA",
+      "cfu": 9,
+      "votoOttenuto": 24,
+      "votoSimulazione": 24
+    },
+    {
+      "nome": "CONTABILITÀ E BILANCIO",
+      "cfu": 9,
+      "votoOttenuto": 21,
+      "votoSimulazione": 21
+    },
+    {
+      "nome": "MATEMATICA GENERALE",
+      "cfu": 9,
+      "votoOttenuto": 0,
+      "votoSimulazione": 27
+    },
+    {
+      "nome": "ECONOMIA E GESTIONE DELLE IMPRESE",
+      "cfu": 9,
+      "votoOttenuto": 23,
+      "votoSimulazione": 23
+    },
+    {
+      "nome": "ISTITUZIONI DI DIRITTO PRIVATO",
+      "cfu": 9,
+      "votoOttenuto": 19,
+      "votoSimulazione": 19
+    },
+    {
+      "nome": "MICROECONOMIA",
+      "cfu": 9,
+      "votoOttenuto": 21,
+      "votoSimulazione": 21
+    },
+    {
+      "nome": "POLITICA ECONOMICA",
+      "cfu": 9,
+      "votoOttenuto": 0,
+      "votoSimulazione": 22
+    },
+    {
+      "nome": "SISTEMI DI ELABORAZIONE DATI PER L'ECONOMIA",
+      "cfu": 6,
+      "votoOttenuto": 21,
+      "votoSimulazione": 21
+    },
+    {
+      "nome": "MACROECONOMIA",
+      "cfu": 9,
+      "votoOttenuto": 20,
+      "votoSimulazione": 20
+    },
+    {
+      "nome": "STATISTICA",
+      "cfu": 9,
+      "votoOttenuto": 30,
+      "votoSimulazione": 30
+    },
+    {
+      "nome": "DIRITTO PUBBLICO",
+      "cfu": 9,
+      "votoOttenuto": 26,
+      "votoSimulazione": 26
+    },
+    {
+      "nome": "GEOGRAFIA ECONOMICA",
+      "cfu": 6,
+      "votoOttenuto": 20,
+      "votoSimulazione": 20
+    },
+    {
+      "nome": "MATEMATICA FINANZIARIA E ATTUARIALE",
+      "cfu": 9,
+      "votoOttenuto": 22,
+      "votoSimulazione": 22
+    },
+    {
+      "nome": "ECONOMIA DEL LAVORO",
+      "cfu": 6,
+      "votoOttenuto": 28,
+      "votoSimulazione": 28
+    },
+    {
+      "nome": "SCIENZA DELLE FINANZE",
+      "cfu": 9,
+      "votoOttenuto": 0,
+      "votoSimulazione": 23
+    },
+    {
+      "nome": "FINANZA PER L'AZIENDA",
+      "cfu": 6,
+      "votoOttenuto": 28,
+      "votoSimulazione": 28
+    },
+    {
+      "nome": "DIRITTO TRIBUTARIO",
+      "cfu": 6,
+      "votoOttenuto": 0,
+      "votoSimulazione": 27
+    },
+    {
+      "nome": "DIRITTO COMMERCIALE",
+      "cfu": 9,
+      "votoOttenuto": 0,
+      "votoSimulazione": 27
+    },
+    {
+      "nome": "STATISTICA ECONOMICA",
+      "cfu": 6,
+      "votoOttenuto": 30,
+      "votoSimulazione": 30
+    },
+    {
+      "nome": "ECONOMIA E GESTIONE DEGLI INTERMEDIARI FINANZIARI",
+      "cfu": 9,
+      "votoOttenuto": 25,
+      "votoSimulazione": 25
+    }
+  ],
+  "bonus": {
+    "numeroLodi": 0,
+    "inglese": false,
+    "elaboratoFinale": 0,
+    "laureaTempo": "0",
+    "erasmus": false,
+    "premialita": false
+  },
+  "risultati": {
+    "mediaPonderata": 24.14,
+    "totalBonus": 1,
+    "votoFinale": 90
+  }
+}
